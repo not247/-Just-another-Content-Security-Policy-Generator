@@ -4,6 +4,8 @@
  * not much to say, upload on server and create .htaccsess or just view whats there
  * i suck at explaining things, thing is, i couldnt find something like this so made it myself
  * maybe somebody else can find it usefull or has a use for it or can at least complain about it
+ * 
+its a PHP file that creates a .htaccess well it lists first everything and then allows you to check/use what you like and or not so you can include/exclude
 
 wanna buy me a coffee? 
 feel free here my XRP address rHpcSzWEwDDDSdTKFbfnLtcrzmvNGE9rRQ
